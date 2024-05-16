@@ -119,6 +119,7 @@ ENV/
 data-bin/
 datasets/
 logs/
+Docking_data/  
 # reranking
 /examples/reranking/rerank_data
 
